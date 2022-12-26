@@ -1,2 +1,4 @@
-# compartir información entre múltiples páginas con Context Api
+# Mostrar y editar el estado global utilizando Context API.
+
+
 
