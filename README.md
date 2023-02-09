@@ -17,6 +17,12 @@ Natural pic es una plataforma dedicada a fotografos que promueve el interés por
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="REACT" width="40" height="40 "/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40 "/> 
 </div>
+<br><br><br>
+
+<img src="https://github.com/erlisrivas/Pizzeria-react/blob/master/pizzeriaimg.png" width="400">
+
+
+## [Ver aqui](https://pizzeria-mamma-mia.vercel.app/)
 
 
 
