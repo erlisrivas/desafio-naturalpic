@@ -22,7 +22,7 @@ Natural pic es una plataforma dedicada a fotografos que promueve el interés por
 <img src="https://github.com/erlisrivas/desafio-naturalpic/blob/master/imgnaturalpic.png" width="400">
 
 
-## [Ver aqui](https://naturalpic.vercel.app/))
+## [Ver aqui](https://naturalpic.vercel.app/)
 
 
 
