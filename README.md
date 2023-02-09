@@ -22,7 +22,7 @@ Natural pic es una plataforma dedicada a fotografos que promueve el interés por
 <img src="https://github.com/erlisrivas/Pizzeria-react/blob/master/pizzeriaimg.png" width="400">
 
 
-## [Ver aqui](https://pizzeria-mamma-mia.vercel.app/)
+## [Ver aqui](https://naturalpic.vercel.app/))
 
 
 
